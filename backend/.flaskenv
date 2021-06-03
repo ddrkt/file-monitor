@@ -1,0 +1,2 @@
+FLASK_APP=project.server:create_app
+TF_CPP_MIN_LOG_LEVEL=2
